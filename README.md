@@ -1,4 +1,4 @@
-##Projeto de UI/UX Design para Nutri Action
+Projeto de UI/UX Design para Nutri Action
 
 Descrição do Projeto Este repositório contém o projeto de UI/UX design desenvolvido para o Nutri Action, um aplicativo de fitness focado em rotinas de saúde e exercícios físicos. O objetivo do projeto foi criar uma interface intuitiva e uma experiência de usuário agradável e eficiente, utilizando técnicas e metodologias centradas no usuário.
 
